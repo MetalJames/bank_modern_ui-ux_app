@@ -1,5 +1,4 @@
-import React from 'react';
-import { quotes } from "../assets";
+import { quotes } from '../assets';
 
 type FeedbackCardProps = {
     content: string;

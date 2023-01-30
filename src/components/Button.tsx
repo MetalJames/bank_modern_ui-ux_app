@@ -1,7 +1,5 @@
-import React from 'react';
-
 type ButtonStylesProps = {
-    styles: string
+    styles?: string
 };
 
 const Button = ( props: ButtonStylesProps  ) => {

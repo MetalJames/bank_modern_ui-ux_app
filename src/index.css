@@ -16,19 +16,7 @@
   scroll-behavior: smooth;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-/* navigation starts here */
+/* testButton hover effect starts here */
 
 .testButton {
   transition: all 0.5s ease-in-out;
@@ -69,21 +57,7 @@
   color: #000;
 }
 
-/* navigation ends here */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* testButton hover effect ends here */
 
 .text-gradient {
   background: radial-gradient(64.18% 64.18% at 71.16% 35.69%,
